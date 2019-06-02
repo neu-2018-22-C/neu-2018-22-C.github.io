@@ -1,0 +1,31 @@
+body {
+  color: rgb(161, 161, 160);
+    background-image: url(../Bencsik_Aron.html/images4.jpg);
+    font-size: 20pt;
+
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40pt;
+}
+
+h2{
+    font-size: 28pt;
+}
+
+#asd {
+    padding-right: 20px;
+    padding-left: 5px;
+    width: 550px;
+    height:410px;
+    float: left;
+    border: solid  rgb(161, 161, 161) 4px;
+    padding: 3px;
+    margin-right: 30px;
+    margin-left: 5px;
+}
+
+a:hover {
+    color: aqua;
+}
