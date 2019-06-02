@@ -1,0 +1,30 @@
+body{
+    background-color: black;
+    font-family: Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+    font-size: 23px;
+}
+
+h1{
+    color: white;
+}
+
+a{
+    color: white;
+    text-decoration: underline;
+    font-size: 23px;
+    }
+a:hover{
+    color: white;
+    text-decoration: none;
+}
+
+img{
+    margin-right: 15px;
+    margin-left: 10px;
+}
+
+h6{
+    color: black;
+}
+
