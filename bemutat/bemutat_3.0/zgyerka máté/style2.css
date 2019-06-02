@@ -1,0 +1,55 @@
+body{
+    width: 75%;
+    margin-left:auto;
+    margin-right:auto;
+    background-color: goldenrod;
+}
+
+#szöveg{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    
+}
+
+#eleje{
+   padding-left: 60px;
+}
+
+#profilkep{
+    width: 15%;
+    float: left;
+    margin-right: 30px;
+}
+
+li.tan{
+    padding-bottom: 10px;
+    margin-left: 20px;
+    font-style: bold;
+    
+}
+
+li.adat{
+    padding-bottom: 10px;
+}
+
+h1{
+    background-color: greenyellow;
+    padding: 10px;
+}
+
+img.regiiskola{
+    float: left;
+    width: 40%;
+    margin-right: 30px;
+    
+}
+
+.közepe{
+    
+    line-height: 52px;
+}
+
+#keszitette{
+    float: right;
+    
+}

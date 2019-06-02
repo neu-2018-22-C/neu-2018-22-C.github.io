@@ -1,0 +1,59 @@
+.test
+{
+    margin-left: 20%;
+    margin-right: 20%;
+    
+}
+.a
+{
+    text-align: center;
+    color: #8C4D70;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 28px;
+}
+.b
+{
+    font-style: italic;
+    color: #8C4D70;
+}
+h2
+{
+    margin-bottom: 10px;
+
+}
+h3
+{
+    margin-top: 10px;
+}
+.c
+{
+    
+    font-style: italic;
+    font-family: sans-serif;
+    color: #BF6F94;
+}
+
+.kep1
+{
+    text-align: right;
+}
+.d
+{
+    font-style: italic;
+    color: #03738C;
+}
+.e
+{
+    font-style: italic;
+    font-family: sans-serif;
+    color: #0396A6;
+}
+h4
+{
+    text-align: right;
+    color: #BF6F94;
+    
+}
+
+
+

@@ -1,0 +1,36 @@
+h1{
+    text-align: center;
+    color: blueviolet;
+}
+h3{
+    text-align: right;
+}
+h4{
+    text-align: right;
+    color: darkmagenta;
+}
+body{
+    background-color:pink;
+    font-family: 'Times New Roman', Times, serif;
+}
+h2{
+    color: darkmagenta;
+}
+li:before{
+content: "->";
+}
+li{
+    list-style-type: none;
+}
+table,td{
+    border: 1px solid black;
+}
+a:visited{
+    color: rgb(129, 204, 43);
+}
+a:link{
+    color: rgb(128, 0, 0);
+}
+a:hover{
+    color: rgb(43, 255, 0);
+}
