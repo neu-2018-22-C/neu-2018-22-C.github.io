@@ -1,0 +1,37 @@
+h1,h2{
+    font-family:sans-serif;
+    color: green;
+    margin-left: 35px;
+}
+body{
+    margin-left:50px;
+    margin-right: 50px;
+    margin-top: 20px;
+    margin-bottom:20px;
+    background-image:url(background.png)
+}
+.bemutatkozas{
+    font-family:sans-serif;
+    font-style:italic;
+}
+p{
+    margin-left: 40px;
+}
+img{
+    margin-left: 50px;
+}
+hr{
+    color:green;
+}
+a:link{
+    color:#2eff00;
+}
+a:visited{
+    color:#1ea800;
+}
+a:hover{
+    color:#8cff72;
+}
+a:active{
+    color: black;
+}
