@@ -1,7 +1,11 @@
 body
 {
     font-family:Arial, Helvetica, sans-serif;
-    background-image:url("kepek/sziv.jpg");
+    background:
+          linear-gradient(135deg, hsla(172.96, 97.54%, 45.7%, 1) 0%, hsla(172.96, 97.54%, 45.7%, 0) 70%),
+          linear-gradient(25deg, hsla(136.29, 90.21%, 44.06%, 1) 10%, hsla(136.29, 90.21%, 44.06%, 0) 80%),
+          linear-gradient(315deg, hsla(37.83, 94.1%, 46.77%, 1) 15%, hsla(37.83, 94.1%, 46.77%, 0) 80%),
+          linear-gradient(245deg, hsla(303.81, 98.11%, 48.3%, 1) 100%, hsla(303.81, 98.11%, 48.3%, 0) 70%);
 }
 hr{
     
